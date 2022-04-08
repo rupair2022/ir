@@ -1,9 +1,0 @@
-﻿Step 1: Open command prompt with administrator privileg
-step 2: cd "C:\Python34\Scripts"
-Step 3: C:\Python34\Scripts> pip install --upgrade setuptools
-Step 4: pip install nltk
-Step 5: Run the program if error is coming then
-Step 6: Open Console of python (cmd) and print following command:
->>> import nltk
->>> nltk.download ('stopwords')
->>> nltk.download ('punkt')
